@@ -1,0 +1,3 @@
+interface Protector {
+    void protect();
+}
